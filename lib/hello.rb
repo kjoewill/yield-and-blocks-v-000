@@ -1,6 +1,6 @@
 
 
-def hello_t(array)
+def hello_t(["Tim", "Tom", "Jim"])
   
   i = 0
  
